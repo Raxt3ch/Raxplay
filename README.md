@@ -1,2 +1,5 @@
 # Raxplay
-Repo oficila para raxplay
+Repo oficila para raxplay.
+
+
+Estamos haciendo una pagina para contenido web.
